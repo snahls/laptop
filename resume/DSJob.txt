@@ -1,0 +1,17 @@
+Lead data scientist with Masters degree in machine learning/ statistics / mathematics/ computer science
+8+ years of hands-on experience developing and working on end-to-end data science lifecycle: from building POCs to production-ready models & work with engineers to deploy them to production
+Ability to understand and leverage traditional statistical and mathematical modelling with new age AI/ML techniques
+Experience with R, Python, Spark, TensorFlow, PyTorch and Big data platforms like Apache Spark
+Solid experience in designing and implementing machine learning models, metrics and application of feature engineering techniques to solve customer's problems
+Execute and take ownership of AI/ML projects end-to-end. Good exposure to various deep learning algorithms and frameworks
+Lead junior data analysts/scientists on the project- work distribution and timeline planning for the projects, training and guiding them
+Design frameworks in data sciences (R, Python, Amazon ML, Google ML, Spark etc) to be used for relevant projects
+Effectively interact with stakeholders/ clients in resolving their asks and queries along with testing and verifying their deliverables and refining them.
+Evaluate and use the best frameworks for machine learning pipelines, data visualization, model training and evaluation and model deployment.
+Keep updated on latest research in AI and deep learning and find ways in which it can be used to solve business problems
+Must possess business sense and consulting behaviour to identify and breakdown problems.
+Ability to provide creative and innovative approaches to problem solving
+Ability to work independently and within a collaborative team environment
+Effectively communicate and work with all stakeholders involved
+
+ 

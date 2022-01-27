@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/home" method="POST">
+        <select name='job' id='job'>
+            <option selected>Select JD</option>
+            <option value="P"> Lead Profile</option>
+            <option value="DS"> Lead Data Scientist </option>
+        </select>
+        <button type="submit" >Submit </button>
+    </form>
+   
+    {% for table in tables %}
+    <p>Mean average precision:{{map}}</p>
+    <!-- <p>No: of Resumes in wrong format:{{c}}</p>
+    <ul>{%for i in wrong_list %}
+        <li>{{i}}</li>
+        {%endfor%}</ul>     -->
+    {{ table|safe }}
+    {% endfor %}
+
+</body>
+</html>
