@@ -1,0 +1,22 @@
+
+API key
+F2xoihNRNGPGqZWJlstb0kHuS
+
+API key secret
+Cx32yanebJLE3Nqp0RkBG3YnJkeDqSE9QcqLS9LR2g5qyMmELp
+
+Bearer token
+AAAAAAAAAAAAAAAAAAAAAGLSWwEAAAAACYd%2Fht1fD9mXYMsQ6O3Muqn%2Bnys%3DXupWqiuEL4bIPitbZwRX4AdUyyteILs9sjR7NXFgOYD55wh9WS
+
+Access token
+1276766738063872000-FvdQb2jNZhfPg61kfKJts00taK9NIN
+
+Access token secret
+mS7qUYiSVVebTBPN2PWcYULepJAbjZ8vgyNAp4OY3afeM
+
+
+
+consumer_key="F2xoihNRNGPGqZWJlstb0kHuS"
+consumer_secret="Cx32yanebJLE3Nqp0RkBG3YnJkeDqSE9QcqLS9LR2g5qyMmELp"
+access_token="1276766738063872000-1J9Hpv03DHsxKcyqTMgJsUXefZLzpA"
+access_token_secret="vS6sDgOLdUlWTTtKNmPQ4WcnPIvy57hvpIfcKGrR5dkIC"

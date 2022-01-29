@@ -1,0 +1,326 @@
+birthday-984+28
+death-109+19
+vacation-119
+graduation-115+1
+career-75
+child-73
+events-51
+marriage-46+1
+relocation-27
+divorce-27
+purchase-4
+medical-2
+education-2
+award-1
+layoff-0
+Total-1684
+
+
+
+
+
+Rest-irrelevant
+6673-death-grandma,uncle
+6642-death-father
+6641-death-mother
+6628-death-mother
+6625-death-grand mother
+6603-death-mother-in-law
+6462-death-grand mother
+6425-death-brother
+6420-death-father
+6399-death-grand mother
+6394-death-brother
+6357-medical
+6327-death-grandfather		(ornaments)
+6025-death-wife
+6003-death-brother
+5955-death-mother
+5921-death-mother
+5916-death-mother
+5602-death-son			(shower)
+5152-death-father
+5105-death-sister
+5041-death-father
+4666-death-mother
+4503-death-brother
+4465-death-father/uncle
+4441-death-grand mother
+4273-death-grand mother
+4240-death-mother
+4071-birthday-self
+4047-death-grandma	
+4025-birthday-brother		(death)
+4008-death-brother
+4002-death-grandpa
+3945-death-brother
+3816-death-mother
+3806-death-grand father
+3760-death-father
+3728-birthday-father		(rip)
+3725-death-grand father
+3627-death-grand father
+3579-death-father
+3489-death-mother
+3478-death-father
+3399-death-brother
+3380-death-mother
+3294-death-grand mother
+3230-birthday-brother		(death)
+3210-death-parents
+3118-death-father
+3096-death-grandparents
+3065-death-brother
+3003-death-father
+2899-relocation
+2852-death-mother
+2630-death-mother/grand mother
+2628-death-father
+2535-death-grand father
+2426-death-father
+2314-death-mother
+2274-death-father
+2264-death-sister
+2218-death-grand mother		
+2211-death-mother
+2140-death-grand mother
+2129-death-grand father
+2056-birthday-father		(rip)		
+2034-death-grand mother
+2022-death-husband
+2001-death-sister
+1976-birthday-grand mother	(death,dad)	
+1850-death-father
+1812-death-mother
+1801-medical
+1777-death-grand mother
+1762-death-parents
+1694-death-mother
+1576-death-grand mother		(celebrating)
+1553-death-grand mother
+1519-death-father		(obituary)
+1482-death-brother		
+1449-death-mother
+1445-death-brother
+1325-death-sister
+1270-death-father
+1124-birthday-mother		(death)		
+959-death-mother
+951-death-mother
+913-death-grand mother
+869-death-mother
+762-death-grand mother
+735-death-husband
+691-death-grandma/aunt
+649-death-parents
+603-death-Grand mother
+558-death-Grand mother
+546-death-father-in-law
+510-death-father
+365-death-mother-in-law
+363-death-father
+334-death-brother
+310-death-brother 
+283-death-mother
+129-birthday-son		(rip)
+124-death-brother
+97-death-brother
+72-death-mother
+41-death-father
+28-birthday-father		(rip)
+13-death-father-in-law
+
+
+
+
+94-aunt
+172-aunt
+249-uncle
+387-aunt
+535-uncle
+553-uncle 
+589-aunt
+1479-aunt
+1702-uncle
+2207-daughter-in-law
+2422-aunt
+2437-aunt/uncle
+3132-uncle
+4112-aunt
+4424-aunt
+4951-uncle
+5535-uncle 
+6476-uncle
+6650-aunt
+
+
+
+
+
+
+
+
+
+
+Before-editing
+
+2630-death-mother,grand mother
+2628-death-father
+2426-death-father
+2314-death-mother
+2274-death-father
+2264-death-sister
+2218-death-grand mother,ggm
+2211-death-mother
+2140-death-grand mother
+2129-death-grand father
+1850-death-father
+1812-death-mother
+1801-covid(medical)-self
+1777-death-grand mother
+1762-parents death
+1694-death-mother
+1576-death-grand mother
+1553-death-grand mother
+1482-death-brother,step-dad
+1449-death-mother
+1445-death-brother
+1325-death-sister
+1124-birthday,death-mother
+959-death-mother
+951-death-mother
+913-death-grandma
+869-death-mother
+691-death-grandma,aunt
+649-death-mom,dad
+603-death-Grandma
+558-death-Grandma
+365-death-mother-in-law
+283-death-mother
+124-death-brother
+97-death-brother
+72-death-mother
+41-death-father
+28-birthday-father
+13-death-father-in-law
+
+76-mom death cutting ties
+94-aunt death
+110-paid in full dad #rip
+129-baby(boyfriend) birthday #rip
+139-hogans via papa don #rip
+153-trip taking care mom's #rip
+172-Aunt death
+186-accepted brother death
+199-#rip grandma and grandpa this xmas
+208-alone#rip
+249-Uncle death
+259-birthday pops#rip
+272-great-grandma#rip
+289-he was a son #rip
+310-brother death
+334-bigbro death
+347-cousin husband death
+363-vacation dad
+385-great-grandma #rip
+387-aunt#rip
+390-great grandpa great great grandma#rip
+417-cousin#rip
+510-dad death
+535-uncle death
+546-Fatherinlaw death
+553-uncle death
+559-cousin death
+579-HBD momma d#rip
+589-aunt death
+657-pops bday
+671-aunt death
+678-gay son suicide
+735-husband death
+762-grandma death
+771-cousin missing leg
+851-mom death
+908-granddad death
+909-self death
+931-cousin worked#rip
+954-cancer for me#rip
+915,916,917,1054,1144,1202,1270,1519,1521-refer again
+1479-aunt death
+1610,1645,1646,1654,1702,1764,1769,1773,1924,1976,1987-refer again
+2001,2022,2034,2056,2058,2078,2086,2110,2207,2318,2353-refer again
+2422-aunt death
+2437,2535,2682-refer again
+2826-cousin death
+2852-death-mother
+2854,2881,2883,2887-refer again
+2899-relocation
+3003-death-father
+3065-death-brother
+3096-grandparents#rip
+3118-death-father
+3132-uncle#rip
+3210-parents#rip
+3294-grandma#rip
+3380-death-mother
+3478-death-father
+3489-death-mother
+3579-death-father
+3627-grandpa#rip
+3725-grandpa#rip
+3728-dad bday#rip
+3760-death-father
+3806-grandpa#rip
+3816-mom#rip
+3936-mama#rip
+3945-bro bday#rip
+3031,3069,3107,3230,3261,3286,3399,3464,3472,3751,3833,3836,3927,3949-refer again
+4002-death-grandpa
+4008-brother #rip
+4047-death-grandma
+4071-self-bday
+4112-aunt death
+4233-purchased book
+4240-death-mother
+4273-death-grand mother
+4025,4029,4164,4171,4172,4220,4381,4418,4424,4437,4464,4465-refer again
+4441-death-grand mother
+4666-death-mother
+4503,4654,4689,4812,4906,4924-refer again
+4951-uncle death
+5041-death-father
+5105-death-sister
+5152-death-father
+5484-dad death
+5535-uncle death
+5602-death-son
+5879-grand pa death
+5916-death-mother
+5921-death-mother
+5955-Mum death
+6003-death-brothers
+6025-death-wife
+5175,5349,5536,5661,5804,5822,6172,6185,6192-refer again
+6204-cousin family death
+6223-father death
+6327-grandpa death
+6357-medical-self
+6394-rip bro
+6399-death-grand mother
+6408-child
+6420-death-father
+6425-another bro death
+6450-missmyG
+6453-last goodbye #motherlaw
+6462-death-grand mother
+6471-1year#rip
+6476-uncle death
+6500-dad death
+6513-sister hard day
+6603-death-mother-in-law
+6621-mother's brother,aunt death
+6625-death-grand mother
+6628-death-mother
+6641-death-mother
+6642-death-father
+6650-aunt death
+6673-death-grandma,uncle
